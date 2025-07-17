@@ -1,9 +1,9 @@
 
 
-# Thesis: Impact of Information and Communication Technology on Economic Growth
+# Thesis: Influence of Information and Communication Technology on Economic Growth
 
 ## Overview
-This repository contains Python code developed for the thesis titled **"Impact of Information and Communication Technology on Economic Growth: Lessons for Vietnam"**. The study analyzes the influence of Information and Communication Technology (ICT) on economic growth across 21 countries, distinguishing between developed and developing nations, and draws lessons for Vietnam to leverage ICT for economic development. The analysis uses panel data from the World Bank for the period 2010–2020.
+This repository contains Python code developed for the thesis titled **"Influence of Information and Communication Technology on Economic Growth: Lessons for Vietnam"**. The study analyzes the impact of Information and Communication Technology (ICT) on economic growth across 21 countries, distinguishing between developed and developing nations, and draws lessons for Vietnam to leverage ICT for economic development. The analysis uses panel data from the World Bank for the period 2010–2020.
 
 ## Author
 - **Student**: Minh Anh Bui
