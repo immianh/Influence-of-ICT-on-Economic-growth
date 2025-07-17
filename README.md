@@ -6,10 +6,10 @@
 This repository contains Python code developed for the thesis titled **"Impact of Information and Communication Technology on Economic Growth: Lessons for Vietnam"**. The study analyzes the influence of Information and Communication Technology (ICT) on economic growth across 21 countries, distinguishing between developed and developing nations, and draws lessons for Vietnam to leverage ICT for economic development. The analysis uses panel data from the World Bank for the period 2010–2020.
 
 ## Author
-- **Student**: Bùi Minh Anh  
+- **Student**: Minh Anh Bui
 - **Student ID**: 1914410003  
 - **Class**: Anh 3 – KTQT, Course 58  
-- **Supervisor**: Dr. Phạm Thị Mỹ Hạnh  
+- **Supervisor**: Dr. Thi My Hanh Pham  
 - **Institution**: Faculty of International Economics, Foreign Trade University, Hanoi, Vietnam  
 
 ## Keywords
@@ -79,10 +79,10 @@ The analysis uses:
 - Policy implications for Vietnam include enhancing ICT infrastructure and promoting high-tech exports.
 
 ## Contact
-For questions or feedback, contact Bùi Minh Anh via [email or institutional contact].
+For questions or feedback, contact Minh Anh Bui via anhbm0111@gmail.com.
 
 ## Acknowledgments
-- Supervisor: Dr. Phạm Thị Mỹ Hạnh
+- Supervisor: Dr. Thi My Hanh Pham
 - Institution: Foreign Trade University, Hanoi
 - Data Source: World Bank
 
